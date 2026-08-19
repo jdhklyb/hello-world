@@ -1,2 +1,2 @@
-# hello-world
-此存储库用于练习 GitHub Flow
+# 学习大公司github工作流
+新手小白正在模拟工作流
